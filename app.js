@@ -18,7 +18,7 @@ app.set('view engine', 'ejs');
 // database connection
 const dbURI = process.env.DB_PATH;
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex:true })
-  .then((result) => app.listen(3005))
+  .then((result) => app.listen(3000))
   .catch((err) => console.log(err))
 
 // routes
