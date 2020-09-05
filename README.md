@@ -34,7 +34,7 @@ You can also go direct this link: `https://jwt-auth-arif.herokuapp.com`
 ![homepage](https://raw.githubusercontent.com/arifpro/node-express-jwt-auth/master/screenshots/home.png)
 
 #### Login
-![homepage](https://raw.githubusercontent.com/arifpro/node-express-jwt-auth/master/screenshots/login.png)
+![login](https://raw.githubusercontent.com/arifpro/node-express-jwt-auth/master/screenshots/login.png)
 
 #### Items
-![homepage](https://raw.githubusercontent.com/arifpro/node-express-jwt-auth/master/screenshots/item.png)
+![item](https://raw.githubusercontent.com/arifpro/node-express-jwt-auth/master/screenshots/item.png)
