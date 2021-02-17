@@ -1,4 +1,4 @@
-# [Node-Express Jwt-Auth](https://jwt-auth-arif.herokuapp.com) &middot; [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![Author Arif](https://img.shields.io/badge/Author-Arif-%3C%3E)](https://www.linkedin.com/in/proarif)
+# [Node-Express Jwt-Auth](https://jwt-auth-arif.herokuapp.com) &middot; [![Author Arif](https://img.shields.io/badge/Author-Arif-%3C%3E)](https://www.linkedin.com/in/proarif)
 This is a nodejs and express js jwt authentication site for learning purpose.
 
 ## A simple NodeJs site 
